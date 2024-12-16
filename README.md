@@ -60,11 +60,17 @@
 - **Période**: 10/02/2025 - 09/03/2025  
 - **Tâches**:
   - [ ] Analyser les impacts pour chaque phase du cycle de vie (fabrication, distribution, installation, utilisation, fin de vie).
+    - [ ] Fabrication: Analyser les impacts environnementaux liés aux matériaux et aux processus de production.
+    - [ ] Distribution: Évaluer l’empreinte carbone des étapes de transport et de logistique.
+    - [ ] Installation: Étudier l'impact environnemental de l'installation des systèmes.
+    - [ ] Utilisation: Évaluer les performances énergétiques pendant la durée de vie des pompes à chaleur en prenant en compte la maintenance.
+    - [ ] Fin de vie: Évaluer l’impact environnemental du traitement des produits en fin de vie.
 
 ### 6. Génération des Fiches PEP
 - **Période**: 10/03/2025 - 23/03/2025  
 - **Tâches**:
   - [ ] Créer les fiches PEP conformes à la norme RE 2020.
+  - [ ] Vérifier et valider les fiches avant publication.
 
 ### 7. Validation des Fiches PEP
 - **Période**: 10/03/2025 - 05/05/2025  
